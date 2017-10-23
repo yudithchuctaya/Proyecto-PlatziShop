@@ -4,7 +4,7 @@ font-family: 'Montserrat', sans-serif;
 }
 #header-container,
 #info-container{
-  background-color: #99c84a;
+  background-color: #a0c34f;
   color: white;
 }
 #header-container .login,
@@ -70,7 +70,7 @@ margin:0 auto;
 
 /*==============*/
 .info-container {
-  background-color: #95c428;
+  background-color: #98ca3f;
   color:#fff; 
 }
 
